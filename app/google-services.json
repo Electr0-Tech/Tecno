@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978244650845",
+    "project_id": "tecno-53ac2",
+    "storage_bucket": "tecno-53ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978244650845:android:426157ceb06b0194960ab4",
+        "android_client_info": {
+          "package_name": "com.example.electro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978244650845-jc30odqea2l9f67d8t3hcn3uftpp26c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electro",
+            "certificate_hash": "4ddcbdc8a4be8457bdaac3ee0ea877dfec191077"
+          }
+        },
+        {
+          "client_id": "978244650845-pn0uoq8unom1g94gu401v5v9l3fot3fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTOIDrZ9RFk5NM0T7vY-BUWuZBDzkgOIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978244650845-pn0uoq8unom1g94gu401v5v9l3fot3fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
